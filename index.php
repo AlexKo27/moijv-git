@@ -48,7 +48,7 @@ $games = $queryGame->fetchAll(PDO::FETCH_ASSOC);
               <a class="nav-link" href="#">A propos</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Location</a>
+              <a class="nav-link" href="add-new-game.php">Ajout d'un jeu</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">Contact</a>
